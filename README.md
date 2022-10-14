@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stephen, a second year software engineering student based in the UK.
+- 👋 Hi, I’m Stephen, a third year software engineering student based in the UK.
 - 📫 Email: stephen_okeefe@ymail.com
 <!---
 - 👀 I’m interested in learning as much as possible!
