@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephen, a third year software engineering student based in the UK.
-- 📫 Email: stephen_okeefe@ymail.com
+- 📫 Email: stephenokeefe413@gmail.com
 <!---
 - 👀 I’m interested in learning as much as possible!
 - 🌱 I’m currently learning Python, Java, and web development tools (HTML/CSS/JS). I am looking to use jQuery and React as well.
