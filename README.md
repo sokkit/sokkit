@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stephen, a third year software engineering student based in the UK.
+- 👋 Hi, I’m Stephen, a software engineer based in the UK.
 - 📫 Email: stephenokeefe413@gmail.com
 <!---
 - 👀 I’m interested in learning as much as possible!
